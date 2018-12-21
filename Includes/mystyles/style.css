@@ -1,0 +1,302 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+
+
+.navcol
+{
+    background-color:#4C5564;
+    font-family: 'Poppins', 'sans-serif';
+}
+
+.navfocolo
+{
+    color:white !important;
+}
+
+.paddbt
+{
+    margin:5px;
+}
+
+.backc
+{
+    background-color:#fff;
+    border-color:rgb(233, 238, 243);
+    color:#3D3938;
+}
+
+.backc:hover
+{
+    background-color:rgb(243, 220, 197);
+    border-color:rgb(243, 220, 197);
+    color:#425C7A;
+    opacity:.9;
+}
+
+
+.slidback
+{
+    background-image:url('../Images/Computer_3_.jpg');
+    background-repeat:no-repeat;
+    height:598px;
+    background-size:cover;
+}
+
+.slitwdback
+{
+    background-image:url('../Images/Computer_10_.jpg');
+    background-repeat:no-repeat;
+    height:598px;
+    background-size:cover;
+}
+
+.slitrdback
+{
+    background-image:url('../Images/Computer_7_.jpg');
+    background-repeat:no-repeat;
+    height:598px;
+    background-size:cover;
+}
+
+.hedback1
+{
+   border-radius:3px;
+    background-color:#031F2D;
+    color:#fff;
+    opacity:.9;
+}
+
+.hedback2
+{
+    border-radius:3px;
+    background-color:#181E30;
+    color:#fff;
+    opacity:.9;
+}
+
+.hedback3
+{
+    border-radius:3px;
+    background-color:#2D2938;
+    color:#fff;
+    opacity:.9;
+}
+
+.backsec
+{
+    background-color:#1A3340!important;
+    opacity:.9;
+    font-weight:bold;
+    color:#000;
+    padding:10px;
+}
+
+
+.sectext
+{
+    margin-top:15px;
+    margin-bottom:15px;
+}
+
+.paragcolo
+{
+    color:#F9F1BD;
+}
+
+
+.scrolltoTop
+{
+    width:50px;
+    height:50px;
+    background-color: #19323F;
+    color: #e4e4e4;
+    padding: 2px 10px;
+    font-size: 25px;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    border-radius: 50%;
+    display: block;
+    display: none;
+}
+
+
+.headserback
+{
+    background-image:url('../Images/Computer_6_.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.headsertext
+{
+    width:400px;
+    border:1px solid #fff;
+    border-radius:3px;
+    color:#fff;
+    background-color:#25282F;
+    padding:1%;
+    margin:1%;
+    opacity:.9;
+}
+
+
+/* Second Table */
+
+
+
+
+.tablee,
+.thh,
+.tdd,
+.trr 
+{
+  width:900px;
+  margin-top:20px;
+  margin-bottom:10px;
+  border: 2px solid #263333;
+  border-collapse: collapse;
+}
+
+.schedule td 
+{
+  width: 16.6666666%;
+  vertical-align: middle;
+  text-align: center;
+  padding: 0;
+}
+
+.schedule tr {
+  height: 3em
+}
+
+.schedule tr {
+  height: 3em
+}
+
+.schedule thead tr {
+  height: 1em;
+  color: #f2f5f7;
+  background: #263333
+}
+
+.noborder {
+  border: 0;
+}
+
+.tabel2
+{
+    text-align:left;
+    font-family: 'Kreon', serif;
+    font-size:20px;
+    padding:1%;
+    margin:1%;
+    background-color:#3C5B63;
+    border-radius:3px;
+    color:#fff;
+    border-collapse:collapse;
+}
+
+.thh
+{
+    text-align:center;
+    background-color:#395A78;
+    opacity:.9;
+    color:#fff;
+    border-collapse:collapse;
+}
+
+
+.thtrtd
+{
+    border:1px solid #EDEF8F;
+    padding:1%;
+    margin:1%;
+    width:60em;
+    text-align:center;
+}
+
+
+
+.Signup-Body
+{
+     background-color:rgba(247, 241, 227,1.0);
+     opacity:0.9;
+}
+
+
+
+.SignBack
+{
+    background-color:#D4B57E;
+    opacity:0.9;
+}
+
+
+#SignUp
+{
+    background-color:#E3D4B5;
+    opacity:0.9;
+    border:#ccc 2px solid;
+    position:absolute;
+    top:100px;
+    border: 2px #ccc solid;
+    font-weight:700;
+}
+
+
+.iconsty
+{
+    width:100px;
+    height:100px;
+    border-radius:50px;
+}
+
+.cvparag
+{
+    font-size:20px;
+    font-family: 'Poppins', 'sans-serif';
+}
+
+
+.aboutbod
+{
+    background-image:url('../Images/Computer_9_.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+}
+
+
+.backabsec
+{
+    color:#fff !important;
+    opacity:.9;
+    height:598px;
+}
+
+
+.mailab
+{
+    color:#fff !important;
+    text-decoration:none;
+}
+
+.mailab:hover
+{
+    color:#fff !important;
+    text-decoration:none;
+}
+
+
+
+.backsecfot
+{
+    margin-top:154px;
+}
+
+
+
+
+
+
